@@ -1,69 +1,47 @@
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami;x6py;%24+gcc+-Wall+-Wextra+life.c;Segmentation+fault+(core+dumped);...on+recommence." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=x6py&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
 
-```console
-x6py@root:~$ cat about_me.txt
-┌──────────────────────────────────────────────┐
-│  user     : x6py                             │
-│  language : C  (from zero, one malloc at a   │
-│             time)                            │
-│  status   : [██████░░░░░░░░░] learning...    │
-│  motto    : "if it compiles, ship it"        │
-└──────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+welcome+to+my+space+%F0%9F%91%8B;Learning+C%2C+one+line+at+a+time;Building+cool+stuff+soon+%E2%9C%A8" />
+</p>
 
-x6py@root:~$ ls ./skills
-C/    Shell/    Git/    Linux/    Makefile/
+<p align="center">
+  <a href="https://github.com/x6py"><img src="https://img.shields.io/github/followers/x6py?label=Followers&style=flat-square&color=7F5AF0&labelColor=16161a" /></a>
+  <img src="https://komarev.com/ghpvc/?username=x6py&style=flat-square&color=2CB67D&label=Views" />
+</p>
 
-x6py@root:~$ ./contact --help
-```
+<br>
+
+### ✦ About
+
+- 💻 Currently learning **C** and loving (almost) every segfault
+- 🌱 Exploring Linux, Shell and Git
+- 🎯 Goal: write clean code and ship real projects
+
+<br>
+
+### ✦ Tech
 
 <p align="left">
-  <a href="https://github.com/x6py"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,vim,vscode&theme=dark" />
 </p>
 
----
+<br>
 
-### `> stack`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41" />
-</p>
-
----
-
-### `> stats --verbose`
+### ✦ Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=x6py&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&ring_color=00FF41" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6py&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=x6py&show_icons=true&hide_border=true&bg_color=16161a&title_color=A78BFA&text_color=94A1B2&icon_color=2CB67D&ring_color=7F5AF0&border_radius=12" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6py&layout=compact&hide_border=true&bg_color=16161a&title_color=A78BFA&text_color=94A1B2&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=x6py&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=00FF41" />
+  <img src="https://streak-stats.demolab.com?user=x6py&hide_border=true&border_radius=12&background=16161a&ring=7F5AF0&fire=2CB67D&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=FFFFFE&sideNums=FFFFFE&dates=94A1B2" />
 </p>
 
+<!-- Footer -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=x6py&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41&hide_border=true" />
-</p>
-
----
-
-```c
-#include <unistd.h>
-
-int main(void)
-{
-    write(1, "Thanks for visiting. Now go push something.\n", 44);
-    return (0);
-}
-```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=x6py&color=00ff41&style=flat-square&label=VISITORS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=100&section=footer" />
 </p>
