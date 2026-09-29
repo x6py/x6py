@@ -42,18 +42,6 @@ x6py@root:~$ cat experience.log
 
 <br>
 
-### ✦ Socials
-
-<p align="left">
-  <a href="https://tiktok.com/@TON_TIKTOK"><img src="https://img.shields.io/badge/TikTok-0c0418?style=for-the-badge&logo=tiktok&logoColor=00F0FF" /></a>
-  <a href="https://instagram.com/TON_INSTA"><img src="https://img.shields.io/badge/Instagram-0c0418?style=for-the-badge&logo=instagram&logoColor=FF2BD6" /></a>
-  <a href="https://youtube.com/@TA_CHAINE"><img src="https://img.shields.io/badge/YouTube-0c0418?style=for-the-badge&logo=youtube&logoColor=FF2BD6" /></a>
-  <a href="https://x.com/TON_X"><img src="https://img.shields.io/badge/X-0c0418?style=for-the-badge&logo=x&logoColor=00F0FF" /></a>
-  <a href="https://discord.gg/TON_INVITE"><img src="https://img.shields.io/badge/Discord-0c0418?style=for-the-badge&logo=discord&logoColor=B14BFF" /></a>
-</p>
-
-<br>
-
 ### ✦ Tech
 
 **`> dev`**
