@@ -72,17 +72,6 @@ x6py@root:~$ cat experience.log
 
 <br>
 
-### ✦ Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=x6py&show_icons=true&hide_border=true&bg_color=0c0418&title_color=FF9DF0&text_color=94A1B2&icon_color=00F0FF&ring_color=B14BFF&border_radius=12" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6py&layout=compact&hide_border=true&bg_color=0c0418&title_color=FF9DF0&text_color=94A1B2&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=x6py&hide_border=true&border_radius=12&background=0c0418&ring=B14BFF&fire=00F0FF&currStreakLabel=FF9DF0&sideLabels=FF9DF0&currStreakNum=FFFFFE&sideNums=FFFFFE&dates=94A1B2" />
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2BD6,100:00F0FF&height=100&section=footer" />
