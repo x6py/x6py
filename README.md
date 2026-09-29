@@ -16,16 +16,70 @@
 
 ### ✦ About
 
-- 💻 Currently learning **C** and loving (almost) every segfault
-- 🌱 Exploring Linux, Shell and Git
+- 💻 Coding in **C, Python, Java** and loving (almost) every segfault
+- 🔐 Into **cybersecurity**: pentest, CTFs, networks, SQL
 - 🎯 Goal: write clean code and ship real projects
+
+<br>
+
+### ✦ Experience
+
+```console
+x6py@root:~$ cat experience.log
+[+] LCL ............................ built a cybersecurity app
+                                     for stable API images
+[+] GMGN.ai ........................ developer
+[+] Roblox ......................... content creator & UGC maker
+[+] Community ...................... server with 30k+ members
+```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LCL-Cybersecurity-00F0FF?style=for-the-badge&labelColor=0c0418" />
+  <img src="https://img.shields.io/badge/GMGN.ai-0c0418?style=for-the-badge&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Roblox_UGC-0c0418?style=for-the-badge&logo=roblox&logoColor=FF2BD6" />
+  <img src="https://img.shields.io/badge/Community-30k%2B_members-B14BFF?style=for-the-badge&labelColor=0c0418" />
+</p>
+
+<br>
+
+### ✦ Socials
+
+<p align="left">
+  <a href="https://tiktok.com/@TON_TIKTOK"><img src="https://img.shields.io/badge/TikTok-0c0418?style=for-the-badge&logo=tiktok&logoColor=00F0FF" /></a>
+  <a href="https://instagram.com/TON_INSTA"><img src="https://img.shields.io/badge/Instagram-0c0418?style=for-the-badge&logo=instagram&logoColor=FF2BD6" /></a>
+  <a href="https://youtube.com/@TA_CHAINE"><img src="https://img.shields.io/badge/YouTube-0c0418?style=for-the-badge&logo=youtube&logoColor=FF2BD6" /></a>
+  <a href="https://x.com/TON_X"><img src="https://img.shields.io/badge/X-0c0418?style=for-the-badge&logo=x&logoColor=00F0FF" /></a>
+  <a href="https://discord.gg/TON_INVITE"><img src="https://img.shields.io/badge/Discord-0c0418?style=for-the-badge&logo=discord&logoColor=B14BFF" /></a>
+</p>
 
 <br>
 
 ### ✦ Tech
 
+**`> dev`**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,vim,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,bash,mysql,discord&theme=dark" />
+</p>
+
+**`> cyber`**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,powershell&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-0c0418?style=for-the-badge&logo=wireshark&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Nmap-0c0418?style=for-the-badge&logo=gnubash&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Metasploit-0c0418?style=for-the-badge&logo=metasploit&logoColor=FF2BD6" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0c0418?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-0c0418?style=for-the-badge&logo=hackthebox&logoColor=B14BFF" />
+  <img src="https://img.shields.io/badge/TryHackMe-0c0418?style=for-the-badge&logo=tryhackme&logoColor=B14BFF" />
+</p>
+
+**`> tools`**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode&theme=dark" />
 </p>
 
 <br>
